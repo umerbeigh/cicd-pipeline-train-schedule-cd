@@ -17,5 +17,5 @@ pipeline {
                 echo 'Running build automation in staging'
         }
     }
-    
+    }
 }
